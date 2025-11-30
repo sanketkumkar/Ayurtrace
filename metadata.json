@@ -1,0 +1,9 @@
+{
+  "name": "AyurTrace",
+  "description": "A blockchain-based botanical traceability system for Ayurvedic herbs, ensuring end-to-end transparency from farm to formulation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
